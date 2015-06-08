@@ -1,0 +1,2 @@
+ghast tear > data core
+removal of unecesary textures form other apcks
