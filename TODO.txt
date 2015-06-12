@@ -1,2 +1,5 @@
-ghast tear > data core
-removal of unecesary textures form other apcks
+ghast tear -> data core
+removeof unecesary textures from other packs
+tidy up pumpkin block texture
+redo lit pumpkin (space-worth lamp?)
+redo ship controller (3d?)?

@@ -1,5 +1,5 @@
 {
-    "parent": "item/meshes/lightsaber",
+    "parent": "meshes/lightsaber",
     "textures": {
         "blade": "models/lightsaber/iron_blade",
         "hilt": "blocks/iron_block",		"particle": "blocks/iron_block"
