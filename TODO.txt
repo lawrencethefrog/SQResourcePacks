@@ -1,4 +1,3 @@
-ghast tear -> data core
-removeof unecesary textures from other packs
-redo lit pumpkin (space-worth lamp?)
+remove unecesary textures from other packs
+redo lit pumpkin (space-worthy lamp?)
 redo ship controller (3d?)?
