@@ -1,3 +1,2 @@
 remove unecesary textures from other packs
-redo lit pumpkin (space-worthy lamp?)
 redo ship controller (3d?)?
