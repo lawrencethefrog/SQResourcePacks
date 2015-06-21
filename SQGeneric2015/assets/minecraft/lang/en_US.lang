@@ -476,6 +476,7 @@ item.flintAndSteel.name=Lighter
 item.bow.name=Blaster
 item.arrow.name=Blaster Ammunition
 item.coal.name=Anthracite Crystal
+tile.blockCoal.name=Anthracite Block
 item.charcoal.name=Charcoal
 item.diamond.name=Diamond
 item.emerald.name=Emerald
