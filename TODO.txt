@@ -1,2 +1,2 @@
-remove unecesary textures from other packs
-redo ship controller (3d?)?
+blaster upside down
+finish Architect texture merge
