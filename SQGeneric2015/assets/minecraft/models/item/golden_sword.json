@@ -2,6 +2,6 @@
     "parent": "meshes/lightsaber",
     "textures": {
         "blade": "models/lightsaber/gold_blade",
-        "hilt": "blocks/gold_block",		"particle": "blocks/gold_block"
+        "hilt": "models/lightsaber/gold_hilt",		"particle": "models/lightsaber/gold_hilt"
     }
 }
